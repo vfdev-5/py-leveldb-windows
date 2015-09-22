@@ -11,7 +11,7 @@ set CMAKE_GENERATOR="CodeBlocks - NMake Makefiles"
 :: Project dependencies configuration
 
 :: Path to the Caffe installation
-set CAFFE_PATH=C:/VFomin_folder/Caffe-willyd/Caffe-release
+set CAFFE_PATH=C:/path/to/Caffe-willyd/install
 
 :: ***********************************************************************
 :: Project names
