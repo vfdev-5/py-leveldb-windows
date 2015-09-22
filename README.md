@@ -1,4 +1,4 @@
-# Python leveldb wrapper for Caffe & [Caffe-builder](https://github.com/willyd/caffe-builder) under Windows
+# Python leveldb wrapper for [Caffe](http://caffe.berkeleyvision.org/) & [Caffe-builder](https://github.com/willyd/caffe-builder) under Windows
 Helper project to compile Python leveldb wrapper under Windows using CMake.
 
 C++ libraries (leveldb and its dependencies) should be taken from [Caffe-builder](https://github.com/willyd/caffe-builder)'s cache
